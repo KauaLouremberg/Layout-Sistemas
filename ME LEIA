@@ -6,6 +6,8 @@ python manage.py createsuperuser --> adm/senha=adm123 -->  http://127.0.0.1:8000
 
 http://127.0.0.1:8000/layout/ --> pagina inicial
 
+Ambiente virtual --> 'python -m venv env' | 'env/scripts/activate'
+
 
 Requisitos:
 pip install django
